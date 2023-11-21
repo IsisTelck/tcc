@@ -1,0 +1,21 @@
+
+#trocaimg {
+    
+    width: 250px;
+	display: inline-block;
+    float: center;
+}
+
+.imagens li img {
+    width: 100px;
+    float: center;
+   margin: 5px 5px 5px 0;
+}
+ul {
+    list-style-type: none;
+    float: right;
+    height: 20px;
+}
+img {
+    width: 300px;
+}
